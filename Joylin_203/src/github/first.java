@@ -7,5 +7,9 @@ public class first {
 		System.out.println("Hello world");
 
 	}
+	void display() {
+		System.out.println("Hello Branch");
+		
+	}
 
 }
